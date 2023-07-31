@@ -8,7 +8,7 @@ In order to be able to run these tests you need to install the dependencies at t
 
 You can run the tests from the root of this repository. When you type `pwd` in the console, the last path location should be `javascript-foundations`.
 
-Run the command `npm test mythical-creatures/test/dragon-test.js`. To run other tests, just replace the creature name.
+Run the command `npm test mythical-creatures/test/hobbit-test.js`. To run other tests, just replace the creature name.
 
 ### Creature Order
 
@@ -19,3 +19,7 @@ Run the command `npm test mythical-creatures/test/dragon-test.js`. To run other 
 ### Extra Challenge: Make a New Creature!
 
 Start by making a new test file in the test directory and write all of the tests. Then, add in a file in the exercises directory and write the code necessary to pass all of the tests you wrote. Send your new creature to your instructors - We may add it into the official test suite!
+
+npm test mythical-creatures/test/hobbit-test.js
+npm test mythical-creatures/test/vampire-test.js
+npm test mythical-creatures/test/dragon-test.js

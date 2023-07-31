@@ -7,7 +7,7 @@ Each exercise emphasizes the fundamentals of functional programming in JavaScrip
 1. Fork and clone this repo.
 2. Type `cd javascript-foundations` to move into the root directory
 3. Run `npm install`
-4. Test that the unit tests are working by running the command `npm test mythical-creatures/test/dragon-test.js` in your terminal
+4. Test that the unit tests are working by running the command `npm test mythical-creatures/test/vampire-test.js` in your terminal
 
 You should see something like:
 
